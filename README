@@ -1,3 +1,7 @@
 Here is my README
 This a version.
+<<<<<<< HEAD
 Add a branch testing.
+=======
+Here is in Branch testing
+>>>>>>> testing
